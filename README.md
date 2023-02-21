@@ -3,7 +3,7 @@
 ### 140 coding exercises for JavaScript on Exercism ! From Isogram to Reverse String 
 <br>
 
-- ###[Exo 1]()
+- ### [Exo 1]()
 
 Instructions :
 The classical introductory exercise. Just say "Hello, World!"
