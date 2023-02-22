@@ -6,14 +6,17 @@
 - ## [Exo 1](https://github.com/Leagian/exercism-javascript/blob/main/helloWorld.js)
 
 Instructions :
+
 The classical introductory exercise. Just say "Hello, World!"
 "Hello, World!" is the traditional first program for beginning programming in a new language or environment.
 The objectives are simple:
+
     - Write a function that returns the string "Hello, World!"
 
 - ## [Exo 2](https://github.com/Leagian/exercism-javascript/blob/main/luciansLasagna.js)
 
 Instructions :
+
 1. Define the expected oven time in minutes
 Define the EXPECTED_MINUTES_IN_OVEN constant that represents how many minutes the lasagna should be in the oven. It must be exported. According to the cooking book, the expected oven time in minutes is 40.
 
