@@ -7,7 +7,6 @@ function remainingMinutesInOven(actualMinutesInOven) {
   return EXPECTED_MINUTES_IN_OVEN - actualMinutesInOven;
 }
 console.log(remainingMinutesInOven(10));
-
 // minutes restantes dans le four = 40mins - le temps actuel
 
 /* Given a number of layers, determines the total preparation time */
