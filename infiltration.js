@@ -23,16 +23,8 @@ function canFreePrisoner(
   prisonerIsAwake,
   petDogIsPresent
 ) {
-  if (petDogIsPresent && !archerIsAwake) {
-    return true;
-  } else if (
-    !petDogIsPresent &&
-    prisonerIsAwake &&
-    !knightIsAwake &&
-    !archerIsAwake
-  ) {
-    return true;
-  } else {
-    return false;
-  }
+  return (
+    (petDogIsPresent && !archerIsAwake) ||
+    (!petDogIsPresent && prisonerIsAwake && !knightIsAwake && !archerIsAwake)
+  );
 }
