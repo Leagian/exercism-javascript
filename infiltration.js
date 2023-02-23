@@ -1,7 +1,7 @@
 /* a fast attack can be made if the knight is sleeping */
 
 function canExecuteFastAttack(knightIsAwake) {
-  return knightIsAwake ? false : true;
+  return !knightIsAwake;
 }
 
 /* A useful spy captures information, which they can't do if everyone's asleep */
