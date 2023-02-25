@@ -50,3 +50,15 @@ You have four tasks: to implement the logic for determining if the above actions
 Instructions :
 
    1. Calculate the Hamming Distance between two DNA strands.
+ 
+- ## [Exo 5](https://github.com/Leagian/exercism-javascript/blob/main/rates.js)
+   
+Instructions :
+
+In this exercise you will be writing code to help a freelancer communicate with their clients about the prices of certain projects. You will write a few utility functions to quickly calculate the costs for the clients.
+
+   1. Calculate the day rate given an hourly rate
+   
+   2. Calculate the number of workdays given a fixed budget
+   
+   3. Calculate the discounted rate for large projects
